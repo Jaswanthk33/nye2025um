@@ -25,10 +25,10 @@ const App = () =>  {
               For any urgent queries, please contact us at:
             </p>
             <a
-              href="mailto:vibrantreload2025@vibrantentertainments.live"
+              href="mailto:vibrantreload@vibrantentertainments.live"
               className="text-yellow-400 font-medium text-sm md:text-base break-all hover:text-yellow-300 transition duration-200 underline mt-2 inline-block"
             >
-              vibrantreload2025@vibrantentertainments.live
+              vibrantreload@vibrantentertainments.live
             </a>
           </div>
 
